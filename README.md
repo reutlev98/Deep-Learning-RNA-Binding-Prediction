@@ -12,11 +12,11 @@ The experiment involves introducing RNA molecules into a solution with a specifi
 
 ## How to Run
 
-To execute the program, use the following command:
+To execute the program, Use the following command:
 
-'''
-python3 MLBProject.py RBP1_output.txt RNACMPT_seq.txt RBP1_input.seq RBP1_5nM.seq RBP1_20nM.seq RBP1_80nM.seq RBP1_320nM.seq RBP1_1300nM.seq
-'''
+`python3 MLBProject.py RBP1_output.txt RNACMPT_seq.txt RBP1_input.seq RBP1_5nM.seq RBP1_20nM.seq RBP1_80nM.seq RBP1_320nM.seq RBP1_1300nM.seq`.
+
+
 - **MLBProject.py**: The main Python script.
 - **RBP1_output.txt**: The output file where the model's predicted binding affinities will be saved.
 - **RNACMPT_seq.txt**: Contains RNA sequences for which the binding affinities need to be predicted.
